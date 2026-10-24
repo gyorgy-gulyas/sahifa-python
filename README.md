@@ -105,3 +105,7 @@ The client can be used as a context manager (`with Sahifa() as s:`), which close
 [Documentation](https://sahifa.dev/en/docs) · [Examples in five languages](https://github.com/gyorgy-gulyas/sahifa-examples) · [Pricing](https://sahifa.dev/en/#pricing) · [Data residency](https://sahifa.dev/en/data-residency) · Support: [support@sahifa.dev](mailto:support@sahifa.dev)
 
 MIT License. Sahifa is a service of Yimello LLC.
+
+## Author
+
+Gulyás György Tamás — [ggyt.hu](https://ggyt.hu/)
